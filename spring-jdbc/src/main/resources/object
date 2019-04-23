@@ -1,0 +1,12 @@
+日志配置
+异常处理
+返回规范
+参数校验
+AOP
+controller dao service serviceimpl util json 基类
+请求标准
+
+sim：日志配置
+
+controller层（rest） dao层res（copenmt） service serviceimpl（service） vo类 common base util log aop
+
